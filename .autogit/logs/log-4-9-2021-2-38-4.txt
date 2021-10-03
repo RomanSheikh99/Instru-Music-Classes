@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Mon Oct 04 2021 02:38:04 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/data.json
+* src/components/Header/Header.js
+
+
+Created files:
+* .autogit/logs/log-4-9-2021-2-7-45.txt
+* src/components/Benner/Benner.js
+* src/components/Benner/benner.css
+* src/images/bg.jpg
+
+
+Deleted files:
+
+
+Renamed files:
