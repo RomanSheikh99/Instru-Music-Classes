@@ -3,12 +3,15 @@ import useCourse from '../../hooks/useCourse';
 import Service from '../Service/Service';
 
 const Services = () => {
-    const services = useCourse();
+    const courses = useCourse();
     return (
-        <div>
+        <div className="mt-10">
+            <h2 className="text-center my-4 text-2xl font-bold">All Our Services</h2>
+            <div className="grid grid-cols-4 gap-4 px-8 my-8">
             {
-                services.map(service => <Service key={service.id} service=></Service>)
+                courses.map(course => <Service key={course.id} course={course}></Service>)
             }
+        </div>
         </div>
     );
 };
