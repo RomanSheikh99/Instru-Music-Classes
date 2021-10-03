@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import { faUserCircle } from '@fortawesome/free-solid-svg-icons'
 import { NavLink } from 'react-router-dom';
 import logo from '../../images/logo.png'
 
@@ -22,8 +22,8 @@ const Header = () => {
             <NavLink to="/services" className="text-white mx-2" activeClassName="text-yellow-500">Services</NavLink>
             <NavLink to="/about" className="text-white mx-2" activeClassName="text-yellow-500">About</NavLink>
             <NavLink to="/contact" className="text-white mx-2" activeClassName="text-yellow-500">Contact</NavLink>
-            <NavLink to="/contact" className="text-white mx-2" activeClassName="text-yellow-500">
-                    <F
+            <NavLink to="/profile" className="text-white mx-2" activeClassName="text-yellow-500">
+                <FontAwesomeIcon icon={faUserCircle} />
             </NavLink>
             </div>
         </div>
