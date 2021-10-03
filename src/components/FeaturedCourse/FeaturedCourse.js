@@ -8,7 +8,7 @@ const FeaturedCourse = () => {
     return (
         <div className="px-8 my-8">
             <div>
-                <h2 className="text-2xl font-bold mb-4">Featured course</h2>
+                <h2 className="text-2xl font-bold mb-4">Featured Course</h2>
             </div>
             <div className="grid grid-cols-4 gap-4">
             {
