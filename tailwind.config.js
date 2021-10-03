@@ -5,7 +5,7 @@ module.exports = {
     theme: {
         extend: {
             width: {
-                '96': '96%',
+                'logo-img': '4.6rem',
               }
       },
     },

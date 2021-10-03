@@ -1,3 +1,9 @@
+/* Add tailwind in my project */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* declare font family for all context */
+body{
+    font-family: 'Poppins', sans-serif;
+}
