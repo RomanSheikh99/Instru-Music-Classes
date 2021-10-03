@@ -6,7 +6,10 @@ module.exports = {
         extend: {
             width: {
                 'logo-img': '4.6rem',
-              }
+            },
+            fontFamily: {
+              'poppins': 'Poppins',
+            }
       },
     },
     variants: {

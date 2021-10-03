@@ -15,16 +15,16 @@ const Service = (props) => {
                     />
                     <CardContent>
                         <Typography gutterBottom variant="h5" component="div">
-                        <h2 className="text-sm">{title}</h2>
+                        <h2 className="text-sm font-poppins font-bold">{title}</h2>
                         </Typography>
                         <Typography gutterBottom variant="p" component="div">
-                        <span className="text-xs">Instructor: {instructor}</span>
+                        <span className="text-xs font-poppins">Instructor: {instructor}</span>
                         </Typography>
                         <Typography gutterBottom variant="h5" component="div">
-                        <h3 className="text-base text-yellow-400">$ {fee}</h3>
+                        <h3 className="text-base text-yellow-400 font-poppins font-bold">$ {fee}</h3>
                         </Typography>
                         <Typography variant="body2" color="text.secondary">
-                        <p className="text-xs">{description}</p>
+                        <p className="text-xs font-poppins">{description}</p>
                         </Typography>
                     </CardContent>
                 </CardActionArea>
