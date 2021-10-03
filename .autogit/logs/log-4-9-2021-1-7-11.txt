@@ -1,0 +1,26 @@
+-------------------- Auto-Git Log --------------------
+		Mon Oct 04 2021 01:07:11 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/index.html
+* src/App.js
+* src/index.css
+* tailwind.config.js
+
+
+Created files:
+* public/favicon.png
+* src/components/Header/Header.js
+* src/images/logo.png
+
+
+Deleted files:
+* public/favicon.ico
+* public/logo192.png
+* public/logo512.png
+* src/App.css
+* src/logo.svg
+
+
+Renamed files:
