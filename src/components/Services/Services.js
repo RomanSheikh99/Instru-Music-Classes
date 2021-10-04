@@ -2,6 +2,7 @@ import React from 'react';
 import useCourse from '../../hooks/useCourse';
 import Service from '../Service/Service';
 
+// services components
 const Services = () => {
     const courses = useCourse();
     return (

@@ -3,6 +3,7 @@ import Benner from '../Benner/Benner';
 import FeaturedCourse from '../FeaturedCourse/FeaturedCourse';
 import PopularTopics from '../PopularTopics/PopularTopics';
 
+// home component
 const Home = () => {
     return (
         <div>

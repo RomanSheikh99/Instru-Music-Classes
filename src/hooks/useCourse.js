@@ -1,6 +1,7 @@
 import { useEffect } from "react"
 import { useState } from "react"
 
+// create custom hook
 const useCourse = () => {
     const [course, setCourse] = useState([])
     useEffect(() => {

@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Mon Oct 04 2021 11:32:35 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+* src/components/About/About.js
+* src/components/Benner/Benner.js
+* src/components/Benner/benner.css
+* src/components/Contact/Contact.js
+* src/components/FeaturedCourse/FeaturedCourse.js
+
+
+Created files:
+* .autogit/logs/log-4-9-2021-11-2-17.txt
+* src/components/Profile/Profile.js
+
+
+Deleted files:
+
+
+Renamed files:

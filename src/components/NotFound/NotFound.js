@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import notFound from '../../images/notFound.jpg';
 
+// not found component
 const NotFound = () => {
     return (
         <div className="text-center">

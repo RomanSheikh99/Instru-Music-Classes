@@ -1,7 +1,7 @@
 import React from 'react';
 import profile from '../../images/profile.jpg'
 
-
+// profile component
 const Profile = () => {
     return (
         <div className="text-center">

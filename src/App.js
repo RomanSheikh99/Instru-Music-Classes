@@ -11,6 +11,7 @@ import Services from "./components/Services/Services";
 function App() {
   return (
     <div>
+      {/* declare route */}
       <BrowserRouter>
         <Header></Header>
         <Switch>

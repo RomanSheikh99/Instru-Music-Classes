@@ -1,6 +1,7 @@
 import React from 'react';
 import Topic from '../Topic/Topic';
 
+// popular topics component
 const PopularTopics = () => {
     const topics = ["Piano","Guitar","Keyboard Instrument","Ukulele","Drums","Bass Guitar","Violin","Blues Guitar","Classical Guitar","Piano Chords","Harmonica","Fingerstyle Guitar","Rock Guitar","Flute","Jazz"]
     return (

@@ -1,6 +1,7 @@
 import { Card, CardActionArea, CardContent, CardMedia, Typography } from '@mui/material';
 import React from 'react';
 
+// service components
 const Service = (props) => {
     const {title,fee, instructor, image, description} = props.course
     return (
