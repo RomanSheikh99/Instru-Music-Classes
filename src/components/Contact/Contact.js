@@ -1,6 +1,7 @@
 import React from 'react';
 import map from '../../images/map.jpeg'
 
+// contact component
 const Contact = () => {
     return (
         <div >
@@ -9,6 +10,7 @@ const Contact = () => {
                 <div>
                     <img src={map} alt="" />
                 </div>
+                {/* Email section */}
                 <div>
                     <input className="mb-6 border-2 w-3/4 p-2 border-gray-300 rounded-lg" type="email" placeholder="Enter Your Email" /><br />
                     <textarea className="mb-6 border-2 w-3/4 p-2 border-gray-300 rounded-lg" placeholder="type your message" cols="30" rows="10"></textarea><br />

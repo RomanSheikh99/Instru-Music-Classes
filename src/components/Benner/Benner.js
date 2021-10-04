@@ -1,6 +1,7 @@
 import React from 'react';
 import './benner.css'
 
+// benner component
 const Benner = () => {
     return (
         <div className="bennerBg">

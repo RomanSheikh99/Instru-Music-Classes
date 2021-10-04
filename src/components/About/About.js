@@ -5,10 +5,12 @@ import story from '../../images/story.jpg'
 const About = () => {
     return (
         <div className="mt-10 px-8">
+            {/* about section */}
             <div>
                 <h2 className="text-center my-4 text-4xl font-bold">About Instru...</h2>
                 <p className="text-center text-xl mb-10">Top class music school in the world</p>
             </div>
+            {/* mession section */}
             <div className="grid grid-cols-2 gap-8 mb-12">
                 <div className="">
                     <img className="" src={messionImg} alt="" />
@@ -18,6 +20,7 @@ const About = () => {
                     <p className="text-justify leading-8">Music must first be defined and distinguished from speech, and from animal and bird cries. We discuss the stages of hominid anatomy that permit music to be perceived and created, with the likelihood of both Homo neanderthalensis and Homo sapiens both being capable. The earlier hominid ability to emit sounds of variable pitch with some meaning shows that music at its simplest level must have predated speech. The possibilities of anthropoid motor impulse suggest that rhythm may have preceded melody, though full control of rhythm may well not have come any earlier than the perception of music above. </p>
                 </div>
             </div>
+            {/* story section */}
             <div className="grid grid-cols-2 gap-8 my-12">
                 <div className="">
                 <h2 className="text-4xl mb-8">Our Story</h2>

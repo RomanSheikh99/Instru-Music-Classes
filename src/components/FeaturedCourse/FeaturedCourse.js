@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import useCourse from '../../hooks/useCourse';
 import Service from '../Service/Service';
 
+// featured course component
 const FeaturedCourse = () => {
     const courses = useCourse();
     return (
@@ -17,6 +18,7 @@ const FeaturedCourse = () => {
                 </div>: [])
             }
             </div>
+            {/* add see more button */}
             <div className="flex justify-end">
                 <Link className="text-yellow-400 mt-4" to="/services">See All Courses...</Link>
             </div>
