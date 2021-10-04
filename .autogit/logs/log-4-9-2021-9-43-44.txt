@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Mon Oct 04 2021 09:43:44 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+* src/components/About/About.js
+
+
+Created files:
+* .autogit/logs/log-4-9-2021-8-59-2.txt
+* src/components/Contact/Contact.js
+* src/components/NotFound/NotFound.js
+* src/images/map.jpeg
+* src/images/story.jpg
+
+
+Deleted files:
+
+
+Renamed files:
