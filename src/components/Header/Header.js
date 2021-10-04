@@ -12,7 +12,7 @@ const Header = () => {
             <div className="flex items-center">
                 <img className="w-logo-img" src={logo} alt="" />
                 <div className="text-white ml-2">
-                    <h2 className="text-4xl text-yellow-500">Instu</h2>
+                    <h2 className="text-4xl text-yellow-500">Instru</h2>
                     <p>Music Classes</p>
                 </div>
             </div>
